@@ -160,4 +160,3 @@
 
 ---
 
-Quer que eu monte um modelo em Trello, Notion ou PDF editável com esse plano completo e espaço para acompanhamento de progresso?
